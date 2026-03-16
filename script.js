@@ -179,7 +179,7 @@ var myIcon2 = L.icon({
 //////////////////////////////////
 new L.Control.BootstrapModal({
   modalId: 'modal_about',
-  tooltip: "Informații",
+  tooltip: "Informatii",
   position: "topright",
   glyph: 'fas fa-info'
 }).addTo(map);
